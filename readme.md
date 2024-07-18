@@ -82,3 +82,10 @@ raSecureChat is a high-security chat application designed to provide end-to-end 
 
 **Note:** App only support mac And arm only
 
+<img width="601" alt="Screenshot 2024-07-18 at 10 13 33 AM" src="https://github.com/user-attachments/assets/631fa78c-7d0a-447a-93de-b39767e78e22">
+
+<img width="601" alt="Screenshot 2024-07-18 at 10 14 22 AM" src="https://github.com/user-attachments/assets/4c813580-07ce-4afc-a6ee-4b25a2e7304b">
+
+<img width="812" alt="Screenshot 2024-07-18 at 10 14 48 AM" src="https://github.com/user-attachments/assets/e39b955a-9586-4d15-bae7-9a229841a40c">
+
+
